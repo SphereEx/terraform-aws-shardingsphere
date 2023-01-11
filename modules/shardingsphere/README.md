@@ -1,4 +1,4 @@
-# Terraform Module for ShardingSphere-Proxy
+# Terraform Module for Apache ShardingSphere-Proxy Cluster
 
 ## Requirements
 | Name | Version |
@@ -59,3 +59,5 @@ No modules.
 | Name | Description |
 |------|-------------|
 | <a name="output_shardingsphere_domain"></a> [shardingsphere\_domain](#output\_shardingsphere\_domain) | The domain name of the ShardingSphere Proxy Cluster for use by other services |
+
+
